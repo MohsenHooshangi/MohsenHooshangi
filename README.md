@@ -40,7 +40,7 @@
 
 ## 🚀 Featured Projects
 
-- 🔗 [Camiunet.com](https://camiunet.com) – Online heavy machinery marketplace with dashboard panel | WordPress, JetEngine, Elementor, Custom queries , PHP
+- 🔗 [Camiunet.com](https://camiunet.com) – Online heavy machinery marketplace with dashboard panel | WordPress, JetEngine, Elementor, Custom queries
 - 🔗 [Maher Academy LMS](https://maher.ir) – WordPress, JetEngine, LearnDash, custom APIs
 - 🔗 [Maher Exams Platform](https://azmoon.maher.ir) – Custom LMS exam system with Digits & LearnDash
 - 🔗 [ERP Software](https://emaco.ngerp.ir) – Multilingual ERP (React.js + Python + MongoDB)
