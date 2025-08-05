@@ -65,7 +65,7 @@
 > 📚 I frequently write about technical topics, tutorials, and migration journeys:
 
 - 🚀 [How I created, managed, and monetized multiple startup businesses from scratch](#)
-- 🧨 [How I built an LMS system connected to a mobile app with LearnDash + REST API](#)
+- 🧨 [How I built an LMS system connected to a mobile app with LearnDash + Custom API](#)
 - 🧩 [Building multilingual ERP dashboards with React.js & MongoDB](#)
 - 🧪 [How to structure a WordPress plugin with clean architecture](#)
 - 🔐 [SEO strategies I used to increase traffic by 400% in 2 months](#)
