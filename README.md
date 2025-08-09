@@ -84,11 +84,13 @@
 
 ---
 
-## 📫 Contact Me
+## 📬 Contact
 
-- 🌐 Website: [www.mohsenhooshangi.ir](https://www.mohsenhooshangi.ir)
-- 📧 Email: **mr.hooshangi.official@gmail.com**
-- 🖥️ GitHub: [github.com/mrhooshangigit](https://github.com/mrhooshangigit)
+If you’d like to learn more or collaborate:
+
+- 📧 Email: **mr.hooshangi.official@gmail.com**  
+- 🌐 Website: [www.mohsenhooshangi.ir](https://www.mohsenhooshangi.ir)  
+- 🖥️ GitHub: [github.com/MohsenHooshangi](https://github.com/MohsenHooshangi)
 
 ---
 
