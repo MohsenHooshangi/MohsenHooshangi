@@ -41,6 +41,7 @@ Whether you are looking to hire an intern/AI engineer, collaborate on innovative
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass)
 
 **Backend:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
