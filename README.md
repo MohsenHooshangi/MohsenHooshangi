@@ -7,9 +7,27 @@
 
 ---
 
-🎯 A results-driven software engineer and entrepreneur with 5+ years of experience in building scalable digital products — from custom LMS and e-commerce platforms to multilingual ERP systems.  
-🔧 Adept in React, WordPress (headless), Node.js, and plugin engineering.  
-🌱 Currently growing **Camiunet**, an advanced trucking marketplace, and **Maher Academy**, a learning platform with mobile app integration.
+ENTJ-A | AI Master's Student & Software Engineer | Aspiring AI Engineer
+
+I am a passionate Software Engineer currently pursuing my Master’s degree in Artificial Intelligence. With 4+ years of practical software development experience and a strong entrepreneurial mindset, I bridge the gap between advanced AI concepts and real-world applications.
+
+
+Currently, I am the founder and lead developer of Camiunet.com, an intelligent platform for the heavy machinery sector, where I lead technological strategy and the integration of AI-driven features.
+
+
+🎓 Current Focus & Looking For: I am actively seeking AI Engineering Internships, Junior AI Engineer, or Software Engineering roles where I can contribute to building scalable systems, machine learning models, and smart software solutions. If your team is looking for a driven AI Engineer or Developer with strong problem-solving skills, I am ready to add immediate value.
+
+
+💡 Core Expertise & Technical Skills:
+
+• Artificial Intelligence & ML: Machine Learning, Deep Learning, Intelligent Systems, Predictive Modeling
+• Software Development: Full-Stack Development, Architecture Design
+• Leadership & Strategy: Product Management, Startup Growth, Technical Leadership
+
+
+📌 Linkedin & Portfolio: https://www.linkedin.com/in/mohsen-houshangi
+
+Whether you are looking to hire an intern/AI engineer, collaborate on innovative projects, or scale a business, feel free to connect or drop me a message!
 
 ---
 
