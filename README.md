@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohsen Hooshangi</h1>
-<h3 align="center">Full-Stack Web Developer | Plugin Engineer | WordPress & React Enthusiast | Entrepreneur</h3>
+<h1 align="center">Hi 👋, I'm Mohsen Houshangi</h1>
+<h3 align="center">AI Engineer | Web Developer | Entrepreneur</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrhooshangigit&label=Profile%20views&color=0e75b6&style=flat" alt="mrhooshangigit" />
