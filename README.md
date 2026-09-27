@@ -9,25 +9,30 @@
 
 ENTJ-A | AI Master's Student & Software Engineer | Aspiring AI Engineer
 
-I am a passionate Software Engineer currently pursuing my Master’s degree in Artificial Intelligence. With 4+ years of practical software development experience and a strong entrepreneurial mindset, I bridge the gap between advanced AI concepts and real-world applications.
+I am a Software Engineer and AI Master’s student at Eötvös Loránd University (ELTE), currently based in Budapest, Hungary.
 
+With 4+ years of hands-on experience in software development, I have worked on web applications, custom software solutions, APIs, WordPress/WooCommerce systems, and real-world digital products. I enjoy turning ideas into practical, scalable solutions and solving complex technical problems.
 
-Currently, I am the founder and lead developer of Camiunet.com, an intelligent platform for the heavy machinery sector, where I lead technological strategy and the integration of AI-driven features.
+Currently, I am deepening my knowledge in Artificial Intelligence and Machine Learning, with a particular interest in Computer Vision, intelligent systems, and the application of AI to real-world problems.
 
+I am also the founder and lead developer of Camiunet.com, a technology platform for the heavy transportation industry, where I work across product development, software architecture, technical strategy, and the integration of intelligent features.
 
-🎓 Current Focus & Looking For: I am actively seeking AI Engineering Internships, Junior AI Engineer, or Software Engineering roles where I can contribute to building scalable systems, machine learning models, and smart software solutions. If your team is looking for a driven AI Engineer or Developer with strong problem-solving skills, I am ready to add immediate value.
+🎓 Current Focus
+• Artificial Intelligence & Machine Learning
+• Computer Vision
+• Software Engineering
+• Python & AI development
+• Intelligent and data-driven systems
 
+💼 Currently Open To
+I am looking for AI/ML, Computer Vision, Software Engineering, and R&D opportunities, particularly Internships, Working Student positions, and student-friendly roles where I can combine my existing software engineering experience with my growing expertise in AI.
 
-💡 Core Expertise & Technical Skills:
-
-• Artificial Intelligence & ML: Machine Learning, Deep Learning, Intelligent Systems, Predictive Modeling
-• Software Development: Full-Stack Development, Architecture Design
-• Leadership & Strategy: Product Management, Startup Growth, Technical Leadership
-
+I am especially interested in opportunities where I can learn from experienced engineers, contribute to real products, and build AI systems that solve practical problems.
 
 📌 Linkedin & Portfolio: https://www.linkedin.com/in/mohsen-houshangi
+📌 Portfolio: mohsenhooshangi.ir
 
-Whether you are looking to hire an intern/AI engineer, collaborate on innovative projects, or scale a business, feel free to connect or drop me a message!
+Always open to connecting with people working in AI, Computer Vision, Software Engineering, and technology-driven products.
 
 ---
 
