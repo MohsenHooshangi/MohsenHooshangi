@@ -7,32 +7,34 @@
 
 ---
 
-ENTJ-A | AI Master's Student & Software Engineer | Aspiring AI Engineer
+AI Masters Student amp; Software Engineer | Python, Data amp; Computer Vision
 
 I am a Software Engineer and AI Master’s student at Eötvös Loránd University (ELTE), currently based in Budapest, Hungary.
 
-With 4+ years of hands-on experience in software development, I have worked on web applications, custom software solutions, APIs, WordPress/WooCommerce systems, and real-world digital products. I enjoy turning ideas into practical, scalable solutions and solving complex technical problems.
+With 4+ years of hands-on experience in software development, I have worked on web applications, custom software solutions, APIs, and real-world digital products. I enjoy turning complex ideas into practical, scalable solutions. 
 
-Currently, I am deepening my knowledge in Artificial Intelligence and Machine Learning, with a particular interest in Computer Vision, intelligent systems, and the application of AI to real-world problems.
+Currently, I am deepening my knowledge in Artificial Intelligence and Machine Learning, with a particular interest in Computer Vision, intelligent systems, and applying AI to practical industry problems.
 
-I am also the founder and lead developer of Camiunet.com, a technology platform for the heavy transportation industry, where I work across product development, software architecture, technical strategy, and the integration of intelligent features.
+I am also the founder and lead developer of Camiunet.com, a technology platform for the heavy transportation industry, where I handle software architecture, technical strategy, and product development.
+
 
 🎓 Current Focus
 • Artificial Intelligence & Machine Learning
-• Computer Vision
-• Software Engineering
-• Python & AI development
-• Intelligent and data-driven systems
+• Computer Vision amp; Intelligent Systems
+• Python amp; Data-driven Development
+• Software Engineering Architecture
+
 
 💼 Currently Open To
-I am looking for AI/ML, Computer Vision, Software Engineering, and R&D opportunities, particularly Internships, Working Student positions, and student-friendly roles where I can combine my existing software engineering experience with my growing expertise in AI.
+I am looking for AI/ML, Computer Vision, Software Engineering, and Ramp;D opportunities in Europe. I am particularly interested in Internships and Working Student positions where I can combine my solid software engineering background with my growing expertise in AI to build impactful products.
+
 
 I am especially interested in opportunities where I can learn from experienced engineers, contribute to real products, and build AI systems that solve practical problems.
 
-📌 Linkedin & Portfolio: https://www.linkedin.com/in/mohsen-houshangi
+📌 GitHub: github.com/MohsenHooshangi
 📌 Portfolio: mohsenhooshangi.ir
 
-Always open to connecting with people working in AI, Computer Vision, Software Engineering, and technology-driven products.
+Always open to connecting with professionals in AI, Software Engineering, and tech-driven products.
 
 ---
 
