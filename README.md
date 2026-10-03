@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohsen Houshangi</h1>
-<h3 align="center">AI Engineer | Web Developer | Entrepreneur</h3>
+<h3 align="center">M.Sc. Artificial Intelligence Student at ELTE | Software Engineer | Python, Data & AI | Seeking Internships & Working Student Roles</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrhooshangigit&label=Profile%20views&color=0e75b6&style=flat" alt="mrhooshangigit" />
