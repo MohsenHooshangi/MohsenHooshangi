@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohsen Houshangi</h1>
-<h3 align="center">M.Sc. Artificial Intelligence Student at ELTE | Software Engineer | Python, Data & AI</h3>
+<h3 align="center">M.Sc. Artificial Intelligence Student at ELTE | Software Engineer | Python, Full-Stack & AI</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrhooshangigit&label=Profile%20views&color=0e75b6&style=flat" alt="mrhooshangigit" />
@@ -7,32 +7,24 @@
 
 ---
 
-AI Masters Student amp; Software Engineer | Python, Data amp; Computer Vision
+I am a Software Engineer and an active AI Master’s student at Eötvös Loránd University (ELTE), currently based in Budapest, Hungary.
 
-I am a Software Engineer and AI Master’s student at Eötvös Loránd University (ELTE), currently based in Budapest, Hungary.
+With 4+ years of hands-on experience in software development, I have worked on web applications, custom software solutions, APIs, and real-world digital products using technologies like React, TypeScript, and Node.js. I truly enjoy turning complex ideas into practical, scalable solutions and collaborating within tech teams.
 
-With 4+ years of hands-on experience in software development, I have worked on web applications, custom software solutions, APIs, and real-world digital products. I enjoy turning complex ideas into practical, scalable solutions. 
+Currently, I am deepening my knowledge in Artificial Intelligence and Machine Learning, with a particular interest in Computer Vision and applying AI to practical industry problems.
 
-Currently, I am deepening my knowledge in Artificial Intelligence and Machine Learning, with a particular interest in Computer Vision, intelligent systems, and applying AI to practical industry problems.
-
-I am also the founder and lead developer of Camiunet.com, a technology platform for the heavy transportation industry, where I handle software architecture, technical strategy, and product development.
-
+Previously, I co-founded and developed Camiunet.com, a technology platform for the heavy transportation industry. In this role, I focused on full-stack development, bringing a digital product to life, and collaborating in an Agile-like environment.
 
 🎓 Current Focus
 • Artificial Intelligence & Machine Learning
-• Computer Vision amp; Intelligent Systems
-• Python amp; Data-driven Development
-• Software Engineering Architecture
-
+• Computer Vision & Intelligent Systems
+• Python & Data-driven Development
+• Full-Stack Software Development & Agile Practices
 
 💼 Currently Open To
-I am looking for AI/ML, Computer Vision, Software Engineering, and Ramp;D opportunities in Europe. I am particularly interested in Internships and Working Student positions where I can combine my solid software engineering background with my growing expertise in AI to build impactful products.
+I am looking for AI/ML, Computer Vision, and Software Engineering opportunities in Europe. Because of my active university studies, I am particularly interested in Internships and Working Student positions (up to 30 hours/week). These roles perfectly allow me to combine my solid software engineering background with my growing expertise in AI, while learning enterprise-level workflows and modern tools from experienced teams.
 
-
-I am especially interested in opportunities where I can learn from experienced engineers, contribute to real products, and build AI systems that solve practical problems.
-
-📌 GitHub: github.com/MohsenHooshangi
-📌 Portfolio: mohsenhooshangi.ir
+📌 LinkedIN: https://www.linkedin.com/in/mohsen-houshangi
 
 Always open to connecting with professionals in AI, Software Engineering, and tech-driven products.
 
